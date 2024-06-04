@@ -13,3 +13,10 @@ A Kubernetes cluster is a form of Kubernetes deployment architecture. Basic Kube
 Kubernetes architecture components or K8s components include the Kubernetes control plane and the nodes in the cluster. The control plane machine components include the Kubernetes API server, Kubernetes scheduler, Kubernetes controller manager, and etcd. Kubernetes node components include a container runtime engine or docker, a Kubelet service, and a Kubernetes proxy service.
 
 ![alt text](image-1.png)
+
+
+Below is a video, explained about K8s architecture in detail
+
+Ps: such a beautiful video and the depth of explanation is soo good.
+
+link: https://youtu.be/JoHUi9KvnOA?si=u66f2XM25K-_dzzr
